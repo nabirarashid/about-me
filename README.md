@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabirarashid
 - 👀 I’m interested in physics and engineering
 - 🌱 I’m currently learning Matplotlib on Python
-- 📫 How to reach me on instagram @ribena.bira
+- 📫 You can reach me on instagram @ribena.bira
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love black coffee!
 
