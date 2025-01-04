@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @nabirarashid
-- 👀 I’m interested in physics and engineering
-- 🌱 I’m currently learning Matplotlib on Python
-- 📫 You can reach me on instagram @ribena.bira
+- 👋 Hi, I’m @nabirarashid, based in Oakville, Ontario
+- 👀 I’m interested in math and computer science!
+- 🌱 I’m currently learning machine learning using Tensorflow & Pytorch on Python
+- 📫 You can reach me on email at nabira.rashidm@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love black coffee!
 
 <!---
 nabirarashid/nabirarashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
